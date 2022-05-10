@@ -2,7 +2,9 @@
 
 A free subdomain provider for developers around the globe.
 
-[Register for yours](https://github.com/is-a-good-dev/Register)
+### **Our links**
+- [Register](https://github.com/is-a-good-dev/Register)
+- [Documentation](https://docs.is-a-good.dev)
 
 ### **Inspiration**
 
