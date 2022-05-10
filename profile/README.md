@@ -5,6 +5,7 @@ A free subdomain provider for developers around the globe.
 ### **Our links**
 - [Register](https://github.com/is-a-good-dev/Register)
 - [Documentation](https://docs.is-a-good.dev)
+- *Website coming soon*
 
 ### **Inspiration**
 
