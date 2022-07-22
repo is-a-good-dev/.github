@@ -11,3 +11,4 @@ A free subdomain provider for developers around the globe.
 - [Register](https://github.com/is-a-good-dev/Register)
 - [Documentation](https://docs.is-a-good.dev)
 - [Website](https://is-a-good.dev)
+- [Service Status](https://status.is-a-good.dev)
